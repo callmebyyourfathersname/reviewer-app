@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<USERNAME>.github.io/reviewer-app",
+  "homepage": "https://callmebyyourfathersname.github.io/reviewer-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

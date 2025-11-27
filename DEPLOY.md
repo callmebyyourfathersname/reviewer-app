@@ -50,3 +50,28 @@ Whenever you make changes:
    ```bash
    npm run deploy
    ```
+
+## Troubleshooting
+
+### Error: "running scripts is disabled on this system"
+If you see this error in PowerShell, run the deploy command using `cmd`:
+```bash
+cmd /c npm run deploy
+```
+
+### Error: "Permission to ... denied"
+This means you are logged into a different GitHub account than the one you are trying to push to.
+- **Check who you are logged in as**:
+  ```bash
+  git config user.name
+  ```
+- **If you are `callmebyyourfathersname`**:
+  1. Create the repository `reviewer-app` on the `callmebyyourfathersname` GitHub account.
+  2. Update the remote URL:
+     ```bash
+     git remote set-url origin https://github.com/callmebyyourfathersname/reviewer-app.git
+     ```
+  3. Push again:
+     ```bash
+     git push -u origin main
+     ```
