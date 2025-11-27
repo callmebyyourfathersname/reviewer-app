@@ -1,0 +1,2936 @@
+[
+  {
+    "id": "20248133",
+    "module": "Module 1",
+    "question": "Ruby is an example of:",
+    "options": [
+      "MVC as WEB",
+      "MVC as GUI"
+    ],
+    "answer": "MVC as WEB"
+  },
+  {
+    "id": "20248134",
+    "module": "Module 1",
+    "question": "Smalltalk is an example of:",
+    "options": [
+      "MVC as GUI",
+      "MVC as WEB"
+    ],
+    "answer": "MVC as GUI"
+  },
+  {
+    "id": "20248136",
+    "module": "Module 1",
+    "question": "In what year that the Journal of Object Technology (JOT) express MVC as a general concept?",
+    "options": [
+      "1985",
+      "1987",
+      "1988",
+      "1986"
+    ],
+    "answer": "1988"
+  },
+  {
+    "id": "20248138",
+    "module": "Module 1",
+    "question": "This refers to information that is being presented to a user.",
+    "options": [
+      "All of the above",
+      "Model",
+      "Controller",
+      "View"
+    ],
+    "answer": "View"
+  },
+  {
+    "id": "20248142",
+    "module": "Module 1",
+    "question": "It is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.",
+    "options": [
+      "HMVC",
+      "MVC",
+      "MVP",
+      "MVVM"
+    ],
+    "answer": "MVC"
+  },
+  {
+    "id": "20248143",
+    "module": "Module 1",
+    "question": "In what year that Trygve Reenskaug introduced MVC into Smalltalk-79 while visiting the Xerox Palo Alto Research Center (PARC)?",
+    "options": [
+      "1960s",
+      "1980s",
+      "1970s",
+      "1990s"
+    ],
+    "answer": "1970s"
+  },
+  {
+    "id": "20248144",
+    "module": "Module 1",
+    "question": "Is a part of the application that is responsible for retrieving data from the database.",
+    "options": [
+      "View",
+      "Controller",
+      "Model",
+      "None of the above"
+    ],
+    "answer": "Model"
+  },
+  {
+    "id": "20248145",
+    "module": "Module 1",
+    "question": "Microsoft ASP.NET is an example of:",
+    "options": [
+      "MVC as WEB",
+      "MVC as GUI"
+    ],
+    "answer": "MVC as WEB"
+  },
+  {
+    "id": "20248146",
+    "module": "Module 1",
+    "question": "The very nature of the MVC framework is such that there is low coupling among models, views or controllers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248147",
+    "module": "Module 1",
+    "question": "This serves as an intermediary between the Model, the View, and any other resources needed to process the HTTP request and generate a web page.",
+    "options": [
+      "View",
+      "All of the above",
+      "Model",
+      "Controller"
+    ],
+    "answer": "Controller"
+  },
+  {
+    "id": "20248149",
+    "module": "Module 1",
+    "question": "One of the features of CodeIgniter is data encryption",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248150",
+    "module": "Module 1",
+    "question": "One of the features of CodeIgniter is error loading",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248153",
+    "module": "Module 1",
+    "question": "What is the correct algorithm of MVC passive view?",
+    "options": [
+      "User-model- controller-model-view-User",
+      "User-controller-model-controller-view-User",
+      "User-controller-view-controller-model -User",
+      "User-controller-model-view-User"
+    ],
+    "answer": "User-controller-model-controller-view-User"
+  },
+  {
+    "id": "20248155",
+    "module": "Module 1",
+    "question": "Java Swing is an example of MVC as a WEB",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20248156",
+    "module": "Module 1",
+    "question": "One of the features of CodeIgniter is extremely light weight",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248157",
+    "module": "Module 1",
+    "question": "File uploading class is one of the features of CodeIgniter",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248159",
+    "module": "Module 1",
+    "question": "Which of the following statements about CodeIgniter is TRUE?",
+    "options": [
+      "Plugins live inside the system/application/plugins folder.",
+      "Helpers can only be loaded inside a model.",
+      "Sessions cannot be passed as an array.",
+      "Codeignitor core libraries do NOT have the CI_ prefix."
+    ],
+    "answer": "Plugins live inside the system/application/plugins folder."
+  },
+  {
+    "id": "20248160",
+    "module": "Module 1",
+    "question": "It is any representation of information such as a chart, diagram or table in a particular format.",
+    "options": [
+      "None of the above",
+      "View",
+      "Model",
+      "Controller"
+    ],
+    "answer": "View"
+  },
+  {
+    "id": "20248162",
+    "module": "Module 1",
+    "question": "Groovy is an example of:",
+    "options": [
+      "MVC as WEB",
+      "MVC as GUI"
+    ],
+    "answer": "MVC as WEB"
+  },
+  {
+    "id": "20248163",
+    "module": "Module 1",
+    "question": "It refers to the code-behind that exist only to satisfy the MVC pattern.",
+    "options": [
+      "High cohesion",
+      "Excessive boilerplate",
+      "Loose coupling",
+      "Code navigability"
+    ],
+    "answer": "Excessive boilerplate"
+  },
+  {
+    "id": "20248164",
+    "module": "Module 1",
+    "question": "Model-View-Controller Based System is one features of CodeIgniter",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248165",
+    "module": "Module 1",
+    "question": "CodeIgniter has session management features",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248166",
+    "module": "Module 1",
+    "question": "MVC pattern has become popular for designing web applications.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248168",
+    "module": "Module 1",
+    "question": "Cocoa framework is an example of:",
+    "options": [
+      "MVC as GUI",
+      "MVC as WEB"
+    ],
+    "answer": "MVC as GUI"
+  },
+  {
+    "id": "20248172",
+    "module": "Module 1",
+    "question": "Which refers to the system of numbering pages-a list of numbered links ?",
+    "options": [
+      "All of the above",
+      "Rotating",
+      "Pagination",
+      "Cropping"
+    ],
+    "answer": "Pagination"
+  },
+  {
+    "id": "20248178",
+    "module": "Module 1",
+    "question": "JFace is an example of:",
+    "options": [
+      "MVC as WEB",
+      "MVC as GUI"
+    ],
+    "answer": "MVC as GUI"
+  },
+  {
+    "id": "20248182",
+    "module": "Module 1",
+    "question": "CodeIgniter uses a segment-based approach.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248208",
+    "module": "Module 1",
+    "question": "Multiple developers can work simultaneously on the model, controller and views.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248209",
+    "module": "Module 1",
+    "question": "CodeIgniter lets you creatively focus on your project by minimizing the amount of code needed for a given task.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248210",
+    "module": "Module 1",
+    "question": "CodeIgniter also enables you to incorporate your own scripts, or even develop core libraries for the system, enabling you to work in a way that makes the most sense to you.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248211",
+    "module": "Module 1",
+    "question": "One of the features of CodeIgniter is full page caching",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248212",
+    "module": "Module 1",
+    "question": "The introduction of the frameworks Django (for Python) and Rails (for Ruby) was on?",
+    "options": [
+      "2007",
+      "2006",
+      "2004",
+      "2005"
+    ],
+    "answer": "2005"
+  },
+  {
+    "id": "20248213",
+    "module": "Module 1",
+    "question": "This kind of pattern is used for designing the layout of the page.",
+    "options": [
+      "MVC",
+      "MVP",
+      "MVVM",
+      "HMVC"
+    ],
+    "answer": "MVC"
+  },
+  {
+    "id": "20248214",
+    "module": "Module 1",
+    "question": "This mean that the framework navigation can be complex because it introduces new layers of indirection and requires users to adapt to the decomposition criteria of MVC.",
+    "options": [
+      "Excessive boilerplate",
+      "Code navigability",
+      "High cohesion",
+      "Loose coupling"
+    ],
+    "answer": "Code navigability"
+  },
+  {
+    "id": "20248216",
+    "module": "Module 1",
+    "question": "One of the features of CodeIgniter is security and XSS filtering",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248218",
+    "module": "Module 1",
+    "question": "ActionScript is an example of:",
+    "options": [
+      "MVC as WEB",
+      "MVC as GUI"
+    ],
+    "answer": "MVC as WEB"
+  },
+  {
+    "id": "20248219",
+    "module": "Module 1",
+    "question": "Which of the following best describe code reuse",
+    "options": [
+      "Back-end developers can design the structure of the data and how user interacts with it without requiring the user interface to be completed",
+      "The front-end developers are able to design and test the layout of the application prior to the data structure being available.",
+      "Similar view for one application can be refactored for another application with different data because the view is simply handling how the data is being displayed to the user.",
+      "None of the above"
+    ],
+    "answer": "Similar view for one application can be refactored for another application with different data because the view is simply handling how the data is being displayed to the user."
+  },
+  {
+    "id": "20248232",
+    "module": "Module 1",
+    "question": "CodeIgniter supports Query Builder Database",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248233",
+    "module": "Module 1",
+    "question": "CodeIgniter's goal is to attain maximum performance, capability, and flexibility in the smallest, lightest possible package.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248234",
+    "module": "Module 1",
+    "question": "The separation of logic and presentation can be seen in which of the following?",
+    "options": [
+      "MVC approach",
+      "Master/Slave Model",
+      "Simpleton approach",
+      "Semaphore Model"
+    ],
+    "answer": "MVC approach"
+  },
+  {
+    "id": "20248237",
+    "module": "Module 1",
+    "question": "PERL is an example of:",
+    "options": [
+      "MVC as GUI",
+      "MVC as WEB"
+    ],
+    "answer": "MVC as WEB"
+  },
+  {
+    "id": "20248238",
+    "module": "Module 1",
+    "question": "PHP is an example of:",
+    "options": [
+      "MVC as GUI",
+      "MVC as WEB"
+    ],
+    "answer": "MVC as WEB"
+  },
+  {
+    "id": "20248256",
+    "module": "Module 1",
+    "question": "Popular programming languages like JavaScript, Python, Ruby, PHP, Java, C#, and Swift have MVC frameworks that are used for web or mobile application development straight out of the box.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248257",
+    "module": "Module 1",
+    "question": "This components of MVC validates user input and handles data to be displayed.",
+    "options": [
+      "Controller",
+      "Model",
+      "None of the above"
+    ],
+    "answer": "Controller"
+  },
+  {
+    "id": "20248258",
+    "module": "Module 1",
+    "question": "CodeIgniter has email sending class features",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248259",
+    "module": "Module 1",
+    "question": "Which one is the business logic in CodeIgniter?",
+    "options": [
+      "model",
+      "helper",
+      "view",
+      "controller"
+    ],
+    "answer": "model"
+  },
+  {
+    "id": "20248262",
+    "module": "Module 1",
+    "question": "Apache Pivot is an example of:",
+    "options": [
+      "MVC as GUI",
+      "MVC as WEB"
+    ],
+    "answer": "MVC as GUI"
+  },
+  {
+    "id": "20248267",
+    "module": "Module 1",
+    "question": "C++ is an example of:",
+    "options": [
+      "MVC as WEB",
+      "MVC as GUI"
+    ],
+    "answer": "MVC as GUI"
+  },
+  {
+    "id": "20248268",
+    "module": "Module 1",
+    "question": "MVC permits web pages to contain minimal scripting since the presentation is separate from the PHP scripting.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248269",
+    "module": "Module 1",
+    "question": "Loose Coupling is one of the objectives of CodeIgniter",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248276",
+    "module": "Module 1",
+    "question": "One of the features of CodeIgniter is benchmarking",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20248282",
+    "module": "Module 1",
+    "question": "HMVC allows the developers to maintain modular grouping of Controller, Models and View arranged in a sub-directory format.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20249029",
+    "module": "Module 1",
+    "question": "DOM stands for Document Object Model which makes it an MVC model.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20249114",
+    "module": "Module 1",
+    "question": "GNUstep is an example of:",
+    "options": [
+      "MVC as WEB",
+      "MVC as GUI"
+    ],
+    "answer": "MVC as GUI"
+  },
+  {
+    "id": "20249115",
+    "module": "Module 1",
+    "question": "Cropping is one methods of image manipulation library",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20250038",
+    "module": "Module 1",
+    "question": "It represents the data structures in which model classes contains functions such as retrieve, insert, and update information in database.",
+    "options": [
+      "All of the above",
+      "View",
+      "Model",
+      "Controller"
+    ],
+    "answer": "Model"
+  },
+  {
+    "id": "20250098",
+    "module": "Module 1",
+    "question": "CMFL is an example of:",
+    "options": [
+      "MVC as GUI",
+      "MVC as WEB"
+    ],
+    "answer": "MVC as WEB"
+  },
+  {
+    "id": "20250099",
+    "module": "Module 1",
+    "question": "Model refers to information that is being presented to a user.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20250259",
+    "module": "Module 1",
+    "question": "Rotating refers to the system of numbering pages-a list of numbered links ?",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20250748",
+    "module": "Module 1",
+    "question": "GTK+ is an example of:",
+    "options": [
+      "MVC as GUI",
+      "MVC as WEB"
+    ],
+    "answer": "MVC as GUI"
+  },
+  {
+    "id": "20251022",
+    "module": "Module 1",
+    "question": "One of the features of CodeIgniter is zip decoding class",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252958",
+    "module": "Module 2",
+    "question": "One of the software requirements for CodeIgniter installation is operating system",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252959",
+    "module": "Module 2",
+    "question": "To dynamically set a config item or change an existing one, you can do so using:",
+    "options": [
+      "None of the above",
+      "$this->config->set_item('item_name', 'item_value');",
+      "$this->config->item('item_name');",
+      "$this->config->retrieve('item_name');"
+    ],
+    "answer": "$this->config->set_item('item_name', 'item_value');"
+  },
+  {
+    "id": "20252960",
+    "module": "Module 2",
+    "question": "Model-View-Controller Based System is one features of CodeIgniter",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252961",
+    "module": "Module 2",
+    "question": "One of the features of CodeIgniter is applicable profiling",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252962",
+    "module": "Module 2",
+    "question": "The model represents the data structures in which model classes contains functions such as retrieve, insert, and update information in database.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252963",
+    "module": "Module 2",
+    "question": "The third, and any additional segments in URI segments, represent the __________ that will be passed to the controller.",
+    "options": [
+      "controller class",
+      "class function or method",
+      "ID and any variables"
+    ],
+    "answer": "ID and any variables"
+  },
+  {
+    "id": "20252964",
+    "module": "Module 2",
+    "question": "URLs can be remapped using the URI Routing feature for more flexibility.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252965",
+    "module": "Module 2",
+    "question": "By default, the index.php file will be included in your URLs: example.com/index.php/news/article/my_article",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252966",
+    "module": "Module 2",
+    "question": "Routing rules are defined in your application/config/routes.php file.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20252967",
+    "module": "Module 2",
+    "question": "'/' is the segment delimiter.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20253018",
+    "module": "Module 2",
+    "question": "Apache is an example of web browser",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20253019",
+    "module": "Module 2",
+    "question": "One of the software requirements for CodeIgniter installation is web server",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20253020",
+    "module": "Module 2",
+    "question": "Text editor is one of the requirements for CodeIgniter installation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20253022",
+    "module": "Module 2",
+    "question": "In a route, the array key contains the URI to be matched, while the array value contains the destination it should be re-routed to.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20253023",
+    "module": "Module 2",
+    "question": "CodeIgniter uses a segmented-based approach",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20332135",
+    "module": "Module 2",
+    "question": "One of the features of CodeIgniter is extremely light weight",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20332136",
+    "module": "Module 2",
+    "question": "This represents the data structures in which model classes contains functions such as retrieve, insert, and update information in database.",
+    "options": [
+      "Controller",
+      "View",
+      "Model",
+      "All of the above"
+    ],
+    "answer": "Model"
+  },
+  {
+    "id": "20332137",
+    "module": "Module 2",
+    "question": "One of the features of CodeIgniter is zip decoding class",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20332138",
+    "module": "Module 2",
+    "question": "In a route, the array key contains the URI to be matched, while the array value contains the destination it should be re-routed to.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20332139",
+    "module": "Module 2",
+    "question": "In URI segment, the first segment represents the controller class that should be invoked.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349414",
+    "module": "Module 2",
+    "question": "CodeIgniter supports Query Builder Database",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349415",
+    "module": "Module 2",
+    "question": "URLs in CodeIgniter are search-engine and human friendly. CodeIgniter uses a segment-based approach.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349416",
+    "module": "Module 2",
+    "question": "In URI segment, the first segment represents the __________ that should be invoked.",
+    "options": [
+      "controller class",
+      "ID and any variables",
+      "class function or method"
+    ],
+    "answer": "controller class"
+  },
+  {
+    "id": "20395300",
+    "module": "Module 2",
+    "question": "CodeIgniter has full featured database classes with support for several platforms.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20395329",
+    "module": "Module 2",
+    "question": "The first step for CodeIgniter installation is to unzip the package to your web page root directory",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20395330",
+    "module": "Module 2",
+    "question": "The first step for CodeIgniter installation is to Download CodeIgniter",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20419922",
+    "module": "Module 2",
+    "question": "CodeIgniter strives for simplicity, flexibility, and high performance in a small footprint package.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20419923",
+    "module": "Module 2",
+    "question": "In URI segment, the second segment represents the class function or method that should be called.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421148",
+    "module": "Module 2",
+    "question": "The second step for CodeIgniter installation is to unzip the package to your web page root directory",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421149",
+    "module": "Module 2",
+    "question": "In URI segment, the second segment represents the __________ that should be called.",
+    "options": [
+      "ID and any variables",
+      "class function or method",
+      "controller class"
+    ],
+    "answer": "class function or method"
+  },
+  {
+    "id": "20421276",
+    "module": "Module 2",
+    "question": "One of the software requirements for CodeIgniter installation is web browser",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421944",
+    "module": "Module 2",
+    "question": "MVC permits web pages to contain minimal scripting since the presentation is separate from the PHP scripting.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421978",
+    "module": "Module 2",
+    "question": "CodeIgniter was created with the following objectives except for:",
+    "options": [
+      "Dynamic Instantiation",
+      "Loose Coupling",
+      "Template Engine",
+      "Component Singularity"
+    ],
+    "answer": "Template Engine"
+  },
+  {
+    "id": "20349548",
+    "module": "Module 3 & 4",
+    "question": "In the example: example.com/index.php/blog/, the, CodeIgniter would attempt to?",
+    "options": [
+      "Create a class bolg",
+      "Find a controller named Blog.php",
+      "Call a function blog"
+    ],
+    "answer": "Find a controller named Blog.php"
+  },
+  {
+    "id": "20349549",
+    "module": "Module 3 & 4",
+    "question": "CodeIgniter can load a default controller if only your site root URL is requested.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349550",
+    "module": "Module 3 & 4",
+    "question": "Controllers are the heart of your application, as they determine how HTTP requests should be handled.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349551",
+    "module": "Module 3 & 4",
+    "question": "A Controller is a class file that can be associated with a URI.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349552",
+    "module": "Module 3 & 4",
+    "question": "The default controller can be set from which configuration file:",
+    "options": [
+      "autoload",
+      "Config",
+      "Routes",
+      "Database"
+    ],
+    "answer": "Routes"
+  },
+  {
+    "id": "20349553",
+    "module": "Module 3 & 4",
+    "question": "Views are never called directly; they must be loaded by a controller.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349554",
+    "module": "Module 3 & 4",
+    "question": "In an MVC framework, the Controller acts as the orchestrator, so it is responsible for fetching a particular view.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349555",
+    "module": "Module 3 & 4",
+    "question": "An example of storing view within subdirectories: $this->load->view(\"directory_name/file_name\");",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20349556",
+    "module": "Module 3 & 4",
+    "question": "To load a view file you will use the following method:",
+    "options": [
+      "$this->load->file('name');",
+      "$this->load->data('name');",
+      "$this->load->view('name');"
+    ],
+    "answer": "$this->load->view('name');"
+  },
+  {
+    "id": "20349557",
+    "module": "Module 3 & 4",
+    "question": "An example of storing view within sub-directories: $this->load->view('directory_name/file_name');",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421362",
+    "module": "Module 3 & 4",
+    "question": "A Controller is a class file that can be associated with a URI.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421363",
+    "module": "Module 3 & 4",
+    "question": "In this example: example.com/class/function/ID/foo/bar, what is the controller class?",
+    "options": [
+      "function",
+      "example.com",
+      "class"
+    ],
+    "answer": "class"
+  },
+  {
+    "id": "20421364",
+    "module": "Module 3 & 4",
+    "question": "If your URI contains more than two segments they will be passed to your method as function",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20421365",
+    "module": "Module 3 & 4",
+    "question": "In the example: example.com/index.php/blog/, the, CodeIgniter would attempt to?",
+    "options": [
+      "Call a function blog",
+      "Create a class bolg",
+      "Find a controller named Blog.php"
+    ],
+    "answer": "Find a controller named Blog.php"
+  },
+  {
+    "id": "20421366",
+    "module": "Module 3 & 4",
+    "question": "The default controller can be set from which configuration file:",
+    "options": [
+      "autoload",
+      "Routes",
+      "Database",
+      "Config"
+    ],
+    "answer": "Routes"
+  },
+  {
+    "id": "20421367",
+    "module": "Module 3 & 4",
+    "question": "A view is simply a web page, or a page fragment (header, footer) and can be embedded within other views.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421368",
+    "module": "Module 3 & 4",
+    "question": "CodeIgniter will handle multiple calls to $this->load->view() from within a controller.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421369",
+    "module": "Module 3 & 4",
+    "question": "CodeIgniter will intelligently handle multiple calls to $this->load->view() from within a controller.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20421370",
+    "module": "Module 3 & 4",
+    "question": "An example of storing view within sub-directories: $this->load->v('subdirectory_name/file_name');",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20447620",
+    "module": "Module 3 & 4",
+    "question": "Where are Model files typically stored in a CodeIgniter application?",
+    "options": [
+      "app/Config",
+      "app/Models",
+      "app/Controllers",
+      "app/Views"
+    ],
+    "answer": "app/Models"
+  },
+  {
+    "id": "20447621",
+    "module": "Module 3 & 4",
+    "question": "Which function is used to load a Model in CodeIgniter?",
+    "options": [
+      "model()",
+      "use_model()",
+      "load->model()",
+      "get_model()"
+    ],
+    "answer": "model()"
+  },
+  {
+    "id": "20447622",
+    "module": "Module 3 & 4",
+    "question": "Which method is commonly used to retrieve all records from a database table using a Model?",
+    "options": [
+      "findAll()",
+      "get()",
+      "retrieveAll()",
+      "getAll()"
+    ],
+    "answer": "findAll()"
+  },
+  {
+    "id": "20447623",
+    "module": "Module 3 & 4",
+    "question": "Which method in a Model is used to retrieve a single row of data by its primary key?",
+    "options": [
+      "find()",
+      "fetchRow()",
+      "getOne()",
+      "retrieve()"
+    ],
+    "answer": "find()"
+  },
+  {
+    "id": "20447624",
+    "module": "Module 3 & 4",
+    "question": "Which method in a Model is used to update an existing record in the database?",
+    "options": [
+      "modify()",
+      "change()",
+      "set()",
+      "update()"
+    ],
+    "answer": "update()"
+  },
+  {
+    "id": "20447625",
+    "module": "Module 3 & 4",
+    "question": "What is the primary purpose of a View in CodeIgniter?",
+    "options": [
+      "Route HTTP requests",
+      "Handle database queries",
+      "Manage application logic",
+      "Present data to the user"
+    ],
+    "answer": "Present data to the user"
+  },
+  {
+    "id": "20447626",
+    "module": "Module 3 & 4",
+    "question": "Which function is used to load a view in CodeIgniter?",
+    "options": [
+      "view()",
+      "show_view()",
+      "display_view()",
+      "load->view()"
+    ],
+    "answer": "view()"
+  },
+  {
+    "id": "20447627",
+    "module": "Module 3 & 4",
+    "question": "How can you access data passed from the controller in a view file?",
+    "options": [
+      "Using objects",
+      "Using an array",
+      "As variables",
+      "Using $this->data"
+    ],
+    "answer": "As variables"
+  },
+  {
+    "id": "20447628",
+    "module": "Module 3 & 4",
+    "question": "Which of the following is true about views in CodeIgniter?",
+    "options": [
+      "Views should only present data, not handle logic",
+      "Views can directly manipulate session data",
+      "Views should handle form validation",
+      "Views should contain database queries"
+    ],
+    "answer": "Views should only present data, not handle logic"
+  },
+  {
+    "id": "20448982",
+    "module": "Module 3 & 4",
+    "question": "Class names must start with an uppercase letter.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20448983",
+    "module": "Module 3 & 4",
+    "question": "Controller should extends the parent controller class so that it can inherit all its methods.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20448984",
+    "module": "Module 3 & 4",
+    "question": "The default controller can be set from which configuration file:",
+    "options": [
+      "Config",
+      "autoload",
+      "Database",
+      "Routes"
+    ],
+    "answer": "Routes"
+  },
+  {
+    "id": "20448985",
+    "module": "Module 3 & 4",
+    "question": "The .php file extension does not need to be specified unless you use something other than .php.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20448987",
+    "module": "Module 3 & 4",
+    "question": "Views are called directly and must be loaded by a controller.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20448988",
+    "module": "Module 3 & 4",
+    "question": "A view is simply a web page, or a page fragment (header, footer) and can be embedded within other views.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20448991",
+    "module": "Module 3 & 4",
+    "question": "CodeIgniter will intelligently handle multiple calls to $this->load->view() from within a controller.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20448993",
+    "module": "Module 3 & 4",
+    "question": "In an MVC framework, the Controller acts as the orchestrator, so it is responsible for fetching a particular view.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20448994",
+    "module": "Module 3 & 4",
+    "question": "CodeIgniter will handle multiple calls to $this->load->view() from within a controller.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20449014",
+    "module": "Module 3 & 4",
+    "question": "Which method is used to delete a record from the database using a Model?",
+    "options": [
+      "destroy()",
+      "delete()",
+      "erase()",
+      "remove()"
+    ],
+    "answer": "delete()"
+  },
+  {
+    "id": "20449015",
+    "module": "Module 3 & 4",
+    "question": "How do you validate data before saving it in a Model?",
+    "options": [
+      "checkData()",
+      "Use the $validation Rules property",
+      "validateBeforeSave()",
+      "validateData()"
+    ],
+    "answer": "validateData()"
+  },
+  {
+    "id": "20449016",
+    "module": "Module 3 & 4",
+    "question": "What is the purpose of the return Type property in a Model?",
+    "options": [
+      "Specifies the data type of the primary key",
+      "Defines the format for errors",
+      "Specifies the format of returned data (e.g., array, object)",
+      "Configures the database connection"
+    ],
+    "answer": "Specifies the format of returned data (e.g., array, object)"
+  },
+  {
+    "id": "20449017",
+    "module": "Module 3 & 4",
+    "question": "Which of the following functions can be used to include a CSS file in a view?",
+    "options": [
+      "add_css('...')",
+      "<link href=\"...\">",
+      "<link rel=\"stylesheet\" href=\"...\">",
+      "load_css('...')"
+    ],
+    "answer": "<link rel=\"stylesheet\" href=\"...\">"
+  },
+  {
+    "id": "20449018",
+    "module": "Module 3 & 4",
+    "question": "How do you prevent direct access to view files via URL?",
+    "options": [
+      "Load the view using AJAX only",
+      "Set permissions on the file",
+      "Use an .htaccess rule",
+      "Rename the file to .view"
+    ],
+    "answer": "Use an .htaccess rule"
+  },
+  {
+    "id": "20449671",
+    "module": "Module 3 & 4",
+    "question": "This has an invalid class name: <?php class blog extends CI_Controller {}",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20449672",
+    "module": "Module 3 & 4",
+    "question": "________ is an Application Development Framework - a toolkit - for people who build web sites using PHP.",
+    "options": [
+      "CodeIgniter",
+      "Wordpress",
+      "Joomla",
+      "Zend"
+    ],
+    "answer": "CodeIgniter"
+  },
+  {
+    "id": "20449718",
+    "module": "Module 3 & 4",
+    "question": "It is a class file that can be associated with a URI.",
+    "options": [
+      "Controller",
+      "Function",
+      "Control"
+    ],
+    "answer": "Controller"
+  },
+  {
+    "id": "20449719",
+    "module": "Module 3 & 4",
+    "question": "The application/config/routes.php file determines which controller is called by default",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20449720",
+    "module": "Module 3 & 4",
+    "question": "Views are called directly and must be loaded by a controller.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "id": "20449752",
+    "module": "Module 3 & 4",
+    "question": "Which property should be defined in a Model to specify the primary key of the table?",
+    "options": [
+      "protected $key",
+      "protected $primaryKey",
+      "protected $identifier",
+      "protected $id"
+    ],
+    "answer": "protected $primaryKey"
+  },
+  {
+    "id": "20449753",
+    "module": "Module 3 & 4",
+    "question": "Where are the view files typically stored in a CodeIgniter application?",
+    "options": [
+      "app/Models",
+      "app/Controllers",
+      "app/Config",
+      "app/Views"
+    ],
+    "answer": "app/Views"
+  },
+  {
+    "id": "20449754",
+    "module": "Module 3 & 4",
+    "question": "Which method is used to render a view as a partial within another view?",
+    "options": [
+      "view()",
+      "embed_view()",
+      "render_partial()",
+      "include()"
+    ],
+    "answer": "view()"
+  },
+  {
+    "id": "20449755",
+    "module": "Module 3 & 4",
+    "question": "What does the esc() function do in a view?",
+    "options": [
+      "Escapes HTML characters to prevent XSS attacks",
+      "Includes a JavaScript file",
+      "Exits the script",
+      "Creates a new line in the HTML"
+    ],
+    "answer": "Escapes HTML characters to prevent XSS attacks"
+  },
+  {
+    "id": "20449757",
+    "module": "Module 3 & 4",
+    "question": "List features of Codeigniter?",
+    "options": [
+      "Model View Controller support System",
+      "Extremely Light Weight",
+      "All of these",
+      "Full Featured database classes with compatibility to several platforms"
+    ],
+    "answer": "All of these"
+  },
+  {
+    "id": "20449809",
+    "module": "Module 3 & 4",
+    "question": "What is the primary purpose of a Model in CodeIgniter?",
+    "options": [
+      "Handle user input",
+      "Configure routing",
+      "Interact with the database",
+      "Manage views"
+    ],
+    "answer": "Interact with the database"
+  },
+  {
+    "id": "20449810",
+    "module": "Module 3 & 4",
+    "question": "What does the save() method do in a Model?",
+    "options": [
+      "Deletes a record if it exists",
+      "Only updates data in the database",
+      "Inserts or updates data based on whether the record exists",
+      "Only inserts data into the database"
+    ],
+    "answer": "Inserts or updates data based on whether the record exists"
+  },
+  {
+    "id": "20449811",
+    "module": "Module 3 & 4",
+    "question": "What is the purpose of using layouts in Codelgniter views?",
+    "options": [
+      "To create a consistent structure across multiple pages",
+      "To load multiple models",
+      "To handle database connections",
+      "To route user requests"
+    ],
+    "answer": "To create a consistent structure across multiple pages"
+  },
+  {
+    "id": "20450745",
+    "module": "Module 3 & 4",
+    "question": "Controllers are the heart of your application, as they determine how HTTP requests should be handled.",
+    "options": [
+      "False",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "20451013",
+    "module": "Module 3 & 4",
+    "question": "How can you specify a table in a Model to interact with?",
+    "options": [
+      "use Table()",
+      "table()",
+      "setTable()",
+      "protected $table property"
+    ],
+    "answer": "protected $table property"
+  },
+  {
+    "id": "20451014",
+    "module": "Module 3 & 4",
+    "question": "Which method is used to send data from a view back to the controller?",
+    "options": [
+      "view->data()",
+      "transfer_data()",
+      "return_data()",
+      "Data is not sent back; it's typically handled via forms"
+    ],
+    "answer": "Data is not sent back; it's typically handled via forms"
+  },
+  {
+    "id": "20451072",
+    "module": "Module 3 & 4",
+    "question": "Which method can be used to get the number of affected rows from the last database operation?",
+    "options": [
+      "affectedRows()",
+      "rowCount()",
+      "countRows()",
+      "getRowCount()"
+    ],
+    "answer": "affectedRows()"
+  },
+  {
+    "id": "20451073",
+    "module": "Module 3 & 4",
+    "question": "Which of the following methods in CodeIgniter is used to pass data from a controller to a view?",
+    "options": [
+      "assign()",
+      "data()",
+      "with()",
+      "$this->set()"
+    ],
+    "answer": "$this->set()"
+  },
+  {
+    "id": "20451665",
+    "module": "Module 3 & 4",
+    "question": "What is the file extension typically used for view files in CodeIgniter?",
+    "options": [
+      ".php",
+      ".xml",
+      ".view",
+      ".html"
+    ],
+    "answer": ".php"
+  },
+  {
+    "id": "20451666",
+    "module": "Module 3 & 4",
+    "question": "How can you pass multiple pieces of data to a view?",
+    "options": [
+      "Using multiple arguments",
+      "Using a string",
+      "Using an associative array",
+      "Using JSON"
+    ],
+    "answer": "Using an associative array"
+  },
+  {
+    "id": "20499879",
+    "module": "Module 3 & 4",
+    "question": "What is the default return type of data when using Models in CodeIgniter?",
+    "options": [
+      "Object",
+      "XML",
+      "JSON",
+      "Array"
+    ],
+    "answer": "Array"
+  },
+  {
+    "id": "21108520",
+    "module": "Module 7 & 8",
+    "question": "What is the primary purpose of the Email class in CodeIgniter 4?",
+    "options": [
+      "Sending emails",
+      "Handling database queries",
+      "Managing file uploads",
+      "Sending HTTP requests"
+    ],
+    "answer": "Sending emails"
+  },
+  {
+    "id": "21108521",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to load the Email class in CodeIgniter 4?",
+    "options": [
+      "$email = \\Config\\Services::email();",
+      "$this->email->load();",
+      "$this->load->library('email')",
+      "$email = new Email();"
+    ],
+    "answer": "$email = \\Config\\Services::email();"
+  },
+  {
+    "id": "21108522",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to set the recipient's email address?",
+    "options": [
+      "$email->recipient('user@example.com');",
+      "$email->setTo('user@example.com');",
+      "$email->addRecipient('user@example.com');",
+      "$email->setRecipient('user@example.com');"
+    ],
+    "answer": "$email->setTo('user@example.com');"
+  },
+  {
+    "id": "21108523",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to set the email message body in CodeIgniter 4?",
+    "options": [
+      "$email->setContent('Message text');",
+      "$email->setMessage('Message text');",
+      "$email->setMessageBody('Message text');",
+      "$email->body('Message text');"
+    ],
+    "answer": "$email->setMessage('Message text');"
+  },
+  {
+    "id": "21108524",
+    "module": "Module 7 & 8",
+    "question": "How do you attach a file to an email in CodeIgniter 4?",
+    "options": [
+      "$email->attachFile('path/to/file');",
+      "$email->addAttachment('path/to/file');",
+      "$email->setAttachment('path/to/file');",
+      "$email->attach('path/to/file');"
+    ],
+    "answer": "$email->attach('path/to/file');"
+  },
+  {
+    "id": "21108525",
+    "module": "Module 7 & 8",
+    "question": "What does the printDebugger() method do in the context of sending emails?",
+    "options": [
+      "Prints the email body in the browser",
+      "Saves the email to a log file",
+      "Sends the email in debug mode",
+      "Prints the debugging information of the email sending_process"
+    ],
+    "answer": "Prints the debugging information of the email sending_process"
+  },
+  {
+    "id": "21108526",
+    "module": "Module 7 & 8",
+    "question": "Which configuration file is used to set global email settings in CodeIgniter 4?",
+    "options": [
+      "app/Config/Mail.php",
+      "app/Config/Database.php",
+      "app/Config/Email.php",
+      "app/Config/App.php"
+    ],
+    "answer": "app/Config/Email.php"
+  },
+  {
+    "id": "21108527",
+    "module": "Module 7 & 8",
+    "question": "Which method allows you to set a custom email header?",
+    "options": [
+      "$email->addHeader('X-Custom-Header', 'value');",
+      "$email->setCustomHeader('X-Custom-Header', 'value');",
+      "$email->setHeader('X-Custom-Header', 'value');",
+      "$email->customHeader('X-Custom-Header', 'value');"
+    ],
+    "answer": "$email->setHeader('X-Custom-Header', 'value');"
+  },
+  {
+    "id": "21108528",
+    "module": "Module 7 & 8",
+    "question": "How do you send an email to multiple recipients using CodeIgniter 4?",
+    "options": [
+      "$email->setTo('user1@example.com, user2@example.com');",
+      "$email->setTo(['user1@example.com', 'user2@example.com']);",
+      "$email->addRecipients(['user1@example.com', 'user2@example.com']);",
+      "$email->setRecipients('user1@example.com, user2@example.com');"
+    ],
+    "answer": "$email->setTo(['user1@example.com', 'user2@example.com']);"
+  },
+  {
+    "id": "21108529",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to set the email priority in CodeIgniter 4?",
+    "options": [
+      "$email->setPriority(1);",
+      "$email->setImportance(1);",
+      "$email->setMailPriority(1);",
+      "$email->priority(1);"
+    ],
+    "answer": "$email->setPriority(1);"
+  },
+  {
+    "id": "21108544",
+    "module": "Module 7 & 8",
+    "question": "What method is used to retrieve a file from a form submission in Codelgniter 4?",
+    "options": [
+      "$this->file->get('userfile');",
+      "$this->input->file('userfile');",
+      "$this->request->getFile('userfile');",
+      "$this->upload->getFile('userfile');"
+    ],
+    "answer": "$this->request->getFile('userfile');"
+  },
+  {
+    "id": "21108545",
+    "module": "Module 7 & 8",
+    "question": "How can you get the MIME type of an uploaded file?",
+    "options": [
+      "$file->getType();",
+      "$file->getFileType();",
+      "$file->getMimeType();",
+      "$file->getMIME();"
+    ],
+    "answer": "$file->getMimeType();"
+  },
+  {
+    "id": "21108546",
+    "module": "Module 7 & 8",
+    "question": "What does the isvalid() method return if the file is successfully uploaded?",
+    "options": [
+      "An error message",
+      "False",
+      "Null",
+      "True"
+    ],
+    "answer": "True"
+  },
+  {
+    "id": "21108547",
+    "module": "Module 7 & 8",
+    "question": "Which of the following methods will rename the uploaded file when moving it?",
+    "options": [
+      "$file->move('path/to/directory', 'new_name.ext');",
+      "$file->uploadAs('new_name.ext');",
+      "$file->saveAs('new_name.ext');",
+      "$file->rename('new_name.ext');"
+    ],
+    "answer": "$file->move('path/to/directory', 'new_name.ext');"
+  },
+  {
+    "id": "21108548",
+    "module": "Module 7 & 8",
+    "question": "How can you retrieve all uploaded files in a single request?",
+    "options": [
+      "$this->request->getAllFiles();",
+      "$this->request->getFiles();",
+      "$this->request->files();",
+      "$this->input->getFiles();"
+    ],
+    "answer": "$this->request->getFiles();"
+  },
+  {
+    "id": "21108549",
+    "module": "Module 7 & 8",
+    "question": "Which of the following methods is used to crop an image?",
+    "options": [
+      "trim()",
+      "cut()",
+      "crop()",
+      "slice()"
+    ],
+    "answer": "crop()"
+  },
+  {
+    "id": "21108550",
+    "module": "Module 7 & 8",
+    "question": "How do you maintain the aspect ratio when resizing an image in Codelgniter 4?",
+    "options": [
+      "maintainRatio()",
+      "Set keepAspectRatio to true",
+      "It maintains aspect ratio by default",
+      "Use ratioResize()"
+    ],
+    "answer": "It maintains aspect ratio by default"
+  },
+  {
+    "id": "21108551",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to add a watermark to an image in CodeIgniter 4?",
+    "options": [
+      "stamp()",
+      "watermark()",
+      "addWatermark()",
+      "addMark()"
+    ],
+    "answer": "watermark()"
+  },
+  {
+    "id": "21108552",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to save the manipulated image to a file?",
+    "options": [
+      "write()",
+      "store()",
+      "save()",
+      "export()"
+    ],
+    "answer": "save()"
+  },
+  {
+    "id": "21108553",
+    "module": "Module 7 & 8",
+    "question": "How can you flip an image horizontally in CodeIgniter 4?",
+    "options": [
+      "flip('horizontal')",
+      "flipX()",
+      "flip('x')",
+      "flipHorizontal()"
+    ],
+    "answer": "flip('horizontal')"
+  },
+  {
+    "id": "21108990",
+    "module": "Module 7 & 8",
+    "question": "How do you set the sender's email address in CodeIgniter 4?",
+    "options": [
+      "$email->fromAddress('your@example.com');",
+      "$email->sender('your@example.com');",
+      "$email->setSender('your@example.com');",
+      "$email->setFrom('your@example.com');"
+    ],
+    "answer": "$email->setFrom('your@example.com');"
+  },
+  {
+    "id": "21108991",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to send an email in CodeIgniter 4?",
+    "options": [
+      "$email->execute();",
+      "$email->dispatch();",
+      "$email->send();",
+      "$email->deliver();"
+    ],
+    "answer": "$email->send();"
+  },
+  {
+    "id": "21108992",
+    "module": "Module 7 & 8",
+    "question": "What does setting the newline property do in the email configuration?",
+    "options": [
+      "Determines how the email body is wrapped",
+      "Specifies the newline character used in the email headers",
+      "Defines the format of email content",
+      "Adds line breaks in the email subject"
+    ],
+    "answer": "Specifies the newline character used in the email headers"
+  },
+  {
+    "id": "21109009",
+    "module": "Module 7 & 8",
+    "question": "How do you set the subject of an email in CodeIgniter 4?",
+    "options": [
+      "$email->subject('Subject of Email');",
+      "$email->setSubject('Subject of Email');",
+      "$email->setTitle('Subject of Email');",
+      "$email->addSubject('Subject of Email');"
+    ],
+    "answer": "$email->setSubject('Subject of Email');"
+  },
+  {
+    "id": "21109010",
+    "module": "Module 7 & 8",
+    "question": "What is the default email protocol used by CodeIgniter 4?",
+    "options": [
+      "IMAP",
+      "Mail",
+      "SMTP",
+      "Sendmail"
+    ],
+    "answer": "SMTP"
+  },
+  {
+    "id": "21109011",
+    "module": "Module 7 & 8",
+    "question": "Which of the following is a valid mail type in CodeIgniter 4?",
+    "options": [
+      "html",
+      "text/html",
+      "xhtml",
+      "plain"
+    ],
+    "answer": "html"
+  },
+  {
+    "id": "21109012",
+    "module": "Module 7 & 8",
+    "question": "How do you set an email to be sent as plain text?",
+    "options": [
+      "$email->usePlainText();",
+      "$email->setMailType('text');",
+      "$email->setMailType('plain');",
+      "$email->setFormat('plain');"
+    ],
+    "answer": "$email->setMailType('text');"
+  },
+  {
+    "id": "21109013",
+    "module": "Module 7 & 8",
+    "question": "Which method would you use to set the email sender's name?",
+    "options": [
+      "$email->setSender('your@example.com', 'Your Name');",
+      "$email->setSenderName('your@example.com', 'Your Name');",
+      "$email->setFrom('your@example.com', 'Your Name');",
+      "$email->from('your@example.com', 'Your Name');"
+    ],
+    "answer": "$email->setFrom('your@example.com', 'Your Name');"
+  },
+  {
+    "id": "21109091",
+    "module": "Module 7 & 8",
+    "question": "Which service is used to handle file uploads in CodeIgniter 4?",
+    "options": [
+      "Validation",
+      "Email",
+      "Session",
+      "Request"
+    ],
+    "answer": "Request"
+  },
+  {
+    "id": "21109092",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to open an image for manipulation?",
+    "options": [
+      "openImage('path/to/image')",
+      "withFile('path/to/image')",
+      "getImage('path/to/image')",
+      "loadImage('path/to/image')"
+    ],
+    "answer": "withFile('path/to/image')"
+  },
+  {
+    "id": "21109093",
+    "module": "Module 7 & 8",
+    "question": "What method is used to resize an image in CodeIgniter 4?",
+    "options": [
+      "scale()",
+      "changeSize()",
+      "alterSize()",
+      "resize()"
+    ],
+    "answer": "resize()"
+  },
+  {
+    "id": "21109094",
+    "module": "Module 7 & 8",
+    "question": "Which method allows you to get the dimensions of an image?",
+    "options": [
+      "imageSize()",
+      "imageDimensions()",
+      "getSize()",
+      "getDimensions()"
+    ],
+    "answer": "getDimensions()"
+  },
+  {
+    "id": "21109095",
+    "module": "Module 7 & 8",
+    "question": "How do you specify the quality of an image when saving it in Codelgniter 4?",
+    "options": [
+      "setQuality(85)",
+      "quality(85)",
+      "save('path/to/file', 85)",
+      "setCompression(85)"
+    ],
+    "answer": "save('path/to/file', 85)"
+  },
+  {
+    "id": "21109119",
+    "module": "Module 7 & 8",
+    "question": "What is the default upload directory in CodeIgniter 4?",
+    "options": [
+      "public/uploads/",
+      "files/",
+      "assets/uploads/",
+      "writable/uploads/"
+    ],
+    "answer": "writable/uploads/"
+  },
+  {
+    "id": "21109120",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to check the temporary file path of the uploaded file?",
+    "options": [
+      "$file->getTemp();",
+      "$file->getTempName();",
+      "$file->tempPath();",
+      "$file->tempName();"
+    ],
+    "answer": "$file->getTempName();"
+  },
+  {
+    "id": "21109121",
+    "module": "Module 7 & 8",
+    "question": "Which service is used to handle image manipulation in CodeIgniter 4?",
+    "options": [
+      "\\Config\\Services::image()",
+      "\\Config\\Services::upload()",
+      "\\Config\\Services::graphics()",
+      "\\Config\\Services::manipulate()"
+    ],
+    "answer": "\\Config\\Services::image()"
+  },
+  {
+    "id": "21109122",
+    "module": "Module 7 & 8",
+    "question": "How do you add text to an image in CodeIgniter 4?",
+    "options": [
+      "addText('Your Text Here')",
+      "writeText('Your Text Here')",
+      "text('Your Text Here')",
+      "insertText('Your Text Here')"
+    ],
+    "answer": "text('Your Text Here')"
+  },
+  {
+    "id": "21151528",
+    "module": "Module 7 & 8",
+    "question": "How do you set the email format to HTML in CodeIgniter 4?",
+    "options": [
+      "$email->setFormat('html');",
+      "$email->setMailType('html');",
+      "$email->useHTML();",
+      "$email->formatAsHTML();"
+    ],
+    "answer": "$email->setMailType('html');"
+  },
+  {
+    "id": "21151529",
+    "module": "Module 7 & 8",
+    "question": "How do you check if an email was successfully sent in CodeIgniter 4?",
+    "options": [
+      "if ($email->isSent())",
+      "if ($email->wasSent())",
+      "if ($email->send())",
+      "if ($email->sent())"
+    ],
+    "answer": "if ($email->send())"
+  },
+  {
+    "id": "21161986",
+    "module": "Module 7 & 8",
+    "question": "How do you move an uploaded file to a new location in CodeIgniter 4?",
+    "options": [
+      "$file->moveTo('path/to/directory');",
+      "$file->uploadTo('path/to/directory');",
+      "$file->move('path/to/directory');",
+      "$file->relocate('path/to/directory');"
+    ],
+    "answer": "$file->move('path/to/directory');"
+  },
+  {
+    "id": "21161987",
+    "module": "Module 7 & 8",
+    "question": "What is the default driver used by CodeIgniter 4 for image manipulation?",
+    "options": [
+      "Imagick",
+      "GD2",
+      "ImageMagick",
+      "GD"
+    ],
+    "answer": "GD2"
+  },
+  {
+    "id": "21169153",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to check if a file has been uploaded successfully?",
+    "options": [
+      "is_uploaded()",
+      "hasFile()",
+      "isUploadedFile()",
+      "isValid()"
+    ],
+    "answer": "isValid()"
+  },
+  {
+    "id": "21169154",
+    "module": "Module 7 & 8",
+    "question": "Which method is used to get the size of an uploaded file?",
+    "options": [
+      "$file->getSize();",
+      "$file->size();",
+      "$file->getSizeInBytes();",
+      "$file->getFileSize();"
+    ],
+    "answer": "$file->getSize();"
+  },
+  {
+    "id": "21169155",
+    "module": "Module 7 & 8",
+    "question": "Which method would you use to blur an image in CodeIgniter 4?",
+    "options": [
+      "blurlmage()",
+      "smudge()",
+      "fuzzy()",
+      "blur()"
+    ],
+    "answer": "blur()"
+  },
+  {
+    "id": "21169895",
+    "module": "Module 7 & 8",
+    "question": "How can you restrict the file types allowed for upload?",
+    "options": [
+      "Using $file->filterTypes()",
+      "Using $file->restrictTypes()",
+      "Using $this->validate(['userfile' => 'uploaded[userfile]|mime_in[userfile,image/jpg,image/jpeg]']);",
+      "Using $file->setAllowedTypes()"
+    ],
+    "answer": "Using $this->validate(['userfile' => 'uploaded[userfile]|mime_in[userfile,image/jpg,image/jpeg]']);"
+  },
+  {
+    "id": "21169896",
+    "module": "Module 7 & 8",
+    "question": "How do you retrieve the extension of an uploaded file?",
+    "options": [
+      "$file->getExtension();",
+      "$file->getExt();",
+      "$file->getFileExtension();",
+      "$file->extension();"
+    ],
+    "answer": "$file->getExtension();"
+  },
+  {
+    "id": "21170049",
+    "module": "Module 7 & 8",
+    "question": "How do you rotate an image in CodeIgniter 4?",
+    "options": [
+      "rotate()",
+      "turn()",
+      "flip()",
+      "spin()"
+    ],
+    "answer": "rotate()"
+  },
+  {
+    "id": "21170064",
+    "module": "Module 7 & 8",
+    "question": "How do you check for any errors that occurred during the file upload?",
+    "options": [
+      "$file->getUploadError();",
+      "$file->hasError();",
+      "$file->checkError();",
+      "$file->getError();"
+    ],
+    "answer": "$file->getError();"
+  },
+  {
+    "id": "21176781",
+    "module": "Module 7 & 8",
+    "question": "What method can you use to get the original name of an uploaded file?",
+    "options": [
+      "$file->getName();",
+      "$file->getClientName();",
+      "$file->fileName();",
+      "$file->getOriginalName();"
+    ],
+    "answer": "$file->getClientName();"
+  },
+  {
+    "id": "20992636",
+    "module": "Module 5 & 6",
+    "question": "What is the primary purpose of validation in CodeIgniter 4?",
+    "options": [
+      "Ensure data integrity before processing",
+      "Manage application routing",
+      "Generate HTML content",
+      "Handle database queries"
+    ],
+    "answer": "Ensure data integrity before processing"
+  },
+  {
+    "id": "20992637",
+    "module": "Module 5 & 6",
+    "question": "What is the purpose of the set_rules() method in CodeIgniter 4 validation?",
+    "options": [
+      "Execute database queries",
+      "Configure routing",
+      "Manage sessions",
+      "Define validation rules for form fields"
+    ],
+    "answer": "Define validation rules for form fields"
+  },
+  {
+    "id": "20992638",
+    "module": "Module 5 & 6",
+    "question": "How do you set custom error messages for validation rules in CodeIgniter 4?",
+    "options": [
+      "Use the errorMessage() method",
+      "Define them in the view file",
+      "Pass an associative array of rules and messages to the validate() method",
+      "Set them in the database"
+    ],
+    "answer": "Pass an associative array of rules and messages to the validate() method"
+  },
+  {
+    "id": "20992639",
+    "module": "Module 5 & 6",
+    "question": "Which method is used to check if validation passed or failed?",
+    "options": [
+      "valid()",
+      "check()",
+      "passed()",
+      "hasError()"
+    ],
+    "answer": "valid()"
+  },
+  {
+    "id": "20992640",
+    "module": "Module 5 & 6",
+    "question": "How do you apply validation rules to a specific field in a controller?",
+    "options": [
+      "Use $this->setRules('field', 'rules')",
+      "Use $this->validate(['field' => 'rules'])",
+      "Use $this->validation->field('rules')",
+      "Use $this->applyRules('field', 'rules')"
+    ],
+    "answer": "Use $this->validate(['field' => 'rules'])"
+  },
+  {
+    "id": "20992641",
+    "module": "Module 5 & 6",
+    "question": "How can you validate if a field matches another field in CodeIgniter 4?",
+    "options": [
+      "matches",
+      "equal_to",
+      "match",
+      "compare"
+    ],
+    "answer": "matches"
+  },
+  {
+    "id": "20992642",
+    "module": "Module 5 & 6",
+    "question": "Which validation rule would you use to ensure a field contains only numeric values?",
+    "options": [
+      "is_integer",
+      "numeric",
+      "digits_only",
+      "is_number"
+    ],
+    "answer": "numeric"
+  },
+  {
+    "id": "20992643",
+    "module": "Module 5 & 6",
+    "question": "What does the withInput() method do when validation fails in CodeIgniter 4?",
+    "options": [
+      "Displays error messages",
+      "Redirects back with the old input data",
+      "Clears the input fields",
+      "Saves the input data to the database"
+    ],
+    "answer": "Redirects back with the old input data"
+  },
+  {
+    "id": "20992644",
+    "module": "Module 5 & 6",
+    "question": "How can you combine multiple validation rules for a single field?",
+    "options": [
+      "Use an ampersand & between rules",
+      "Use a comma, between rules",
+      "Use a plus sign + between rules",
+      "Use a pipe | between rules"
+    ],
+    "answer": "Use a pipe | between rules"
+  },
+  {
+    "id": "20992645",
+    "module": "Module 5 & 6",
+    "question": "How can you set a custom rule in CodeIgniter 4?",
+    "options": [
+      "Use the setRule() method or define it in the configuration file",
+      "Set the rule in the database",
+      "Use the customRule() method",
+      "Define the rule in the view file"
+    ],
+    "answer": "Use the setRule() method or define it in the configuration file"
+  },
+  {
+    "id": "21033492",
+    "module": "Module 5 & 6",
+    "question": "Which method is used to validate data in CodeIgniter 4?",
+    "options": [
+      "validate()",
+      "check()",
+      "verify()",
+      "confirm()"
+    ],
+    "answer": "validate()"
+  },
+  {
+    "id": "21033493",
+    "module": "Module 5 & 6",
+    "question": "What is the return type of the validate() method when validation fails?",
+    "options": [
+      "Null",
+      "String",
+      "Boolean (False)"
+    ],
+    "answer": "Boolean (False)"
+  },
+  {
+    "id": "21033494",
+    "module": "Module 5 & 6",
+    "question": "Which built-in validation rule checks if a value is a valid email address?",
+    "options": [
+      "valid_email_address",
+      "valid_email",
+      "email_valid",
+      "email_check"
+    ],
+    "answer": "valid_email"
+  },
+  {
+    "id": "21033495",
+    "module": "Module 5 & 6",
+    "question": "Which validation rule would you use to check the minimum length of a string?",
+    "options": [
+      "min_size",
+      "string_length",
+      "min_length",
+      "length_min"
+    ],
+    "answer": "min_length"
+  },
+  {
+    "id": "21033496",
+    "module": "Module 5 & 6",
+    "question": "How can you validate that a field contains a unique value in the database?",
+    "options": [
+      "unique_check",
+      "is_unique_value",
+      "is_unique",
+      "unique_field"
+    ],
+    "answer": "is_unique"
+  },
+  {
+    "id": "21038712",
+    "module": "Module 5 & 6",
+    "question": "Which of the following is a valid built-in validation rule in CodeIgniter 4?",
+    "options": [
+      "valid_date",
+      "required",
+      "is_valid",
+      "numeric_only"
+    ],
+    "answer": "required"
+  },
+  {
+    "id": "21038713",
+    "module": "Module 5 & 6",
+    "question": "Which method retrieves the validation error messages in CodeIgniter 4?",
+    "options": [
+      "showErrors()",
+      "getErrors()",
+      "displayErrors()",
+      "getErrorMessages()"
+    ],
+    "answer": "getErrors()"
+  },
+  {
+    "id": "21038714",
+    "module": "Module 5 & 6",
+    "question": "How do you specify validation rules directly in the model for CodeIgniter 4?",
+    "options": [
+      "$validationRules property",
+      "$modelRules property",
+      "$validateRules property",
+      "$rules property"
+    ],
+    "answer": "$validationRules property"
+  },
+  {
+    "id": "21038715",
+    "module": "Module 5 & 6",
+    "question": "Which validation rule checks if a field value exists in a set of values?",
+    "options": [
+      "in_set",
+      "allowed_values",
+      "exists_in",
+      "in_list"
+    ],
+    "answer": "in_list"
+  },
+  {
+    "id": "21038728",
+    "module": "Module 5 & 6",
+    "question": "How do you load the Pagination library in CodeIgniter 4?",
+    "options": [
+      "$this->pager->initialize()",
+      "$this->pagination->load()",
+      "$pager = \\Config\\Services::pager()",
+      "$this->load->library('pagination')"
+    ],
+    "answer": "$pager = \\Config\\Services::pager()"
+  },
+  {
+    "id": "21038729",
+    "module": "Module 5 & 6",
+    "question": "Which method in the Pagination library is used to create pagination links?",
+    "options": [
+      "getLinks()",
+      "createLinks()",
+      "paginationLinks()",
+      "generateLinks()"
+    ],
+    "answer": "createLinks()"
+  },
+  {
+    "id": "21038730",
+    "module": "Module 5 & 6",
+    "question": "Which of the following is a valid configuration option for pagination in CodeIgniter 4?",
+    "options": [
+      "perPage",
+      "itemsPerPage",
+      "resultsPerPage",
+      "items"
+    ],
+    "answer": "perPage"
+  },
+  {
+    "id": "21038731",
+    "module": "Module 5 & 6",
+    "question": "How do you retrieve the current page number in a controller?",
+    "options": [
+      "$this->pager->currentPage()",
+      "$this->pager->getPage()",
+      "$pager->getCurrentPage()",
+      "$pager->getCurrentPage()"
+    ],
+    "answer": "$pager->getCurrentPage()"
+  },
+  {
+    "id": "21038732",
+    "module": "Module 5 & 6",
+    "question": "Which method is used to set the number of items per page in pagination?",
+    "options": [
+      "$pager->itemsPerPage($perPage)",
+      "$pager->setItemsPerPage($perPage)",
+      "$pager->setPerPage($perPage)",
+      "$pager->setItems($perPage)"
+    ],
+    "answer": "$pager->setPerPage($perPage)"
+  },
+  {
+    "id": "21038733",
+    "module": "Module 5 & 6",
+    "question": "Which method is used to start a session in CodeIgniter 4?",
+    "options": [
+      "initSession()",
+      "session()",
+      "beginSession()",
+      "startSession()"
+    ],
+    "answer": "session()"
+  },
+  {
+    "id": "21038734",
+    "module": "Module 5 & 6",
+    "question": "Which function is used to set session data in CodeIgniter 4?",
+    "options": [
+      "set()",
+      "updateSession()",
+      "setSessionData()",
+      "addSessionData()"
+    ],
+    "answer": "set()"
+  },
+  {
+    "id": "21038735",
+    "module": "Module 5 & 6",
+    "question": "Which session driver uses the file system for storing session data in CodeIgniter 4?",
+    "options": [
+      "CodeIgniter\\Session\\Handlers\\DatabaseHandl",
+      "CodeIgniter\\Session\\Handlers\\FileHandle",
+      "CodeIgniter\\Session\\Handlers\\CookieHandle",
+      "CodeIgniter\\Session\\Handlers\\RedisHandle"
+    ],
+    "answer": "CodeIgniter\\Session\\Handlers\\FileHandle"
+  },
+  {
+    "id": "21038736",
+    "module": "Module 5 & 6",
+    "question": "How do you retrieve all session data at once in CodeIgniter 4?",
+    "options": [
+      "fetchData()",
+      "retrieveAll()",
+      "getSessionData()",
+      "get() without any arguments"
+    ],
+    "answer": "get() without any arguments"
+  },
+  {
+    "id": "21038737",
+    "module": "Module 5 & 6",
+    "question": "What happens to session flashdata after it is retrieved once?",
+    "options": [
+      "It is stored permanently",
+      "It is automatically deleted",
+      "It is moved to a new session key",
+      "It is retained for the duration of the session"
+    ],
+    "answer": "It is automatically deleted"
+  },
+  {
+    "id": "21043628",
+    "module": "Module 5 & 6",
+    "question": "How do you ensure a field is not empty and has a value in CodeIgniter 4?",
+    "options": [
+      "required",
+      "mandatory",
+      "non_empty",
+      "filled"
+    ],
+    "answer": "required"
+  },
+  {
+    "id": "21043629",
+    "module": "Module 5 & 6",
+    "question": "Which method is used to retrieve a specific error message for a particular field?",
+    "options": [
+      "retrieveError('field')",
+      "getError('field')",
+      "showError('field')",
+      "fetchError('field')"
+    ],
+    "answer": "getError('field')"
+  },
+  {
+    "id": "21043754",
+    "module": "Module 5 & 6",
+    "question": "Where can validation rules be defined in CodeIgniter 4?",
+    "options": [
+      "In the view files",
+      "In the database schema",
+      "In the controller or a validation configuration file",
+      "In the app/Views directory"
+    ],
+    "answer": "In the controller or a validation configuration file"
+  },
+  {
+    "id": "21043755",
+    "module": "Module 5 & 6",
+    "question": "What is the function of the setValidation() method in a model?",
+    "options": [
+      "Display validation errors",
+      "Create a validation object",
+      "Assign validation rules to the model",
+      "Set default form values"
+    ],
+    "answer": "Assign validation rules to the model"
+  },
+  {
+    "id": "21043946",
+    "module": "Module 5 & 6",
+    "question": "Which validation rule would you use to ensure a field is exactly 10 characters long?",
+    "options": [
+      "size_10",
+      "fixed_length",
+      "exact_length",
+      "length_exact"
+    ],
+    "answer": "exact_length"
+  },
+  {
+    "id": "21044301",
+    "module": "Module 5 & 6",
+    "question": "What is the primary purpose of pagination in a web application?",
+    "options": [
+      "To increase page load time",
+      "To split content into multiple pages for easier navigation",
+      "To filter content based on user preferences",
+      "To display all content on a single page"
+    ],
+    "answer": "To split content into multiple pages for easier navigation"
+  },
+  {
+    "id": "21044302",
+    "module": "Module 5 & 6",
+    "question": "How can you customize the pagination view in CodeIgniter 4?",
+    "options": [
+      "By modifying the baseURL option",
+      "By setting the template option in the pagination configuration",
+      "By using the customView method in the controller",
+      "By editing the Pager.php configuration file directly"
+    ],
+    "answer": "By setting the template option in the pagination configuration"
+  },
+  {
+    "id": "21044303",
+    "module": "Module 5 & 6",
+    "question": "How do you pass the pagination links to a view?",
+    "options": [
+      "$data['pager'] = $pager;",
+      "$data['links'] = $pager->generateLinks();",
+      "$data['pagination'] = $pager->links();",
+      "$data['pagination'] = $pager->createLinks();"
+    ],
+    "answer": "$data['pager'] = $pager;"
+  },
+  {
+    "id": "21044304",
+    "module": "Module 5 & 6",
+    "question": "What is the primary purpose of a session in CodeIgniter?",
+    "options": [
+      "Maintain user state and data across different pages",
+      "Handle database queries",
+      "Manage application routing",
+      "Generate HTML content"
+    ],
+    "answer": "Maintain user state and data across different pages"
+  },
+  {
+    "id": "21044305",
+    "module": "Module 5 & 6",
+    "question": "Where are session configurations typically stored in CodeIgniter 4?",
+    "options": [
+      "app/Models/Session.php",
+      "app/Config/App.php",
+      "app/Views/SessionConfig.php",
+      "app/Controllers/SessionConfig.php"
+    ],
+    "answer": "app/Config/App.php"
+  },
+  {
+    "id": "21044306",
+    "module": "Module 5 & 6",
+    "question": "How do you set flashdata in a session in CodeIgniter 4?",
+    "options": [
+      "setFlashdata()",
+      "flashData()",
+      "addFlashData()",
+      "flash()"
+    ],
+    "answer": "setFlashdata()"
+  },
+  {
+    "id": "21044307",
+    "module": "Module 5 & 6",
+    "question": "What does the has() method do in the context of sessions in CodeIgniter 4?",
+    "options": [
+      "Adds a new session variable",
+      "Retrieves a session variable",
+      "Checks if a session variable exists",
+      "Deletes a session variable"
+    ],
+    "answer": "Checks if a session variable exists"
+  },
+  {
+    "id": "21044345",
+    "module": "Module 5 & 6",
+    "question": "Which library in CodeIgniter 4 is used to implement pagination?",
+    "options": [
+      "Session",
+      "Form Validation",
+      "Database",
+      "Pagination"
+    ],
+    "answer": "Pagination"
+  },
+  {
+    "id": "21044346",
+    "module": "Module 5 & 6",
+    "question": "How do you specify the base URL for pagination links?",
+    "options": [
+      "By using the siteURL configuration option",
+      "By setting the linkURL option",
+      "By using the baseURL configuration option",
+      "By using the url configuration option"
+    ],
+    "answer": "By using the baseURL configuration option"
+  },
+  {
+    "id": "21044347",
+    "module": "Module 5 & 6",
+    "question": "How do you retrieve a specific piece of session data in CodeIgniter 4?",
+    "options": [
+      "getData()",
+      "fetch()",
+      "get()",
+      "retrieve()"
+    ],
+    "answer": "get()"
+  },
+  {
+    "id": "21044348",
+    "module": "Module 5 & 6",
+    "question": "Which session handler uses a database for storing session data?",
+    "options": [
+      "CodeIgniter\\Session\\Handlers\\DatabaseHandler",
+      "MemcachedHandler",
+      "FileHandler",
+      "CookieHandler"
+    ],
+    "answer": "CodeIgniter\\Session\\Handlers\\DatabaseHandler"
+  },
+  {
+    "id": "21044509",
+    "module": "Module 5 & 6",
+    "question": "What is the default number of links shown in pagination?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "21044510",
+    "module": "Module 5 & 6",
+    "question": "What is the purpose of the uriSegment option in pagination?",
+    "options": [
+      "To determine the query string structure",
+      "To define the base URL for pagination",
+      "To determine which URI segment contains the page number",
+      "To define the URI structure for the controller"
+    ],
+    "answer": "To determine which URI segment contains the page number"
+  },
+  {
+    "id": "21044511",
+    "module": "Module 5 & 6",
+    "question": "Which of the following is a valid way to destroy a session in CodeIgniter 4?",
+    "options": [
+      "deleteSession()",
+      "end()",
+      "close()",
+      "destroy()"
+    ],
+    "answer": "destroy()"
+  },
+  {
+    "id": "21044669",
+    "module": "Module 5 & 6",
+    "question": "Where can you configure the default pagination settings in CodeIgniter 4?",
+    "options": [
+      "app/Config/Pager.php",
+      "app/Config/Pager.php",
+      "app/Views/Pagination.php",
+      "app/Models/Pagination.php"
+    ],
+    "answer": "app/Config/Pager.php"
+  },
+  {
+    "id": "21044670",
+    "module": "Module 5 & 6",
+    "question": "Which method is used to regenerate the session ID in CodeIgniter 4?",
+    "options": [
+      "regenerate()",
+      "resetID()",
+      "newSessionID()",
+      "refreshID()"
+    ],
+    "answer": "regenerate()"
+  },
+  {
+    "id": "21044671",
+    "module": "Module 5 & 6",
+    "question": "Which method is used to remove a specific piece of session data?",
+    "options": [
+      "deleteData()",
+      "remove()",
+      "clear()",
+      "removeData()"
+    ],
+    "answer": "remove()"
+  },
+  {
+    "id": "21044713",
+    "module": "Module 5 & 6",
+    "question": "Which of the following is used to set the total number of items in pagination?",
+    "options": [
+      "$pager->setTotal($totalItems)",
+      "$pager->setTotalltems($totalltems)",
+      "$pager->totalltems($totalltems)",
+      "$pager->setItems($totalltems)"
+    ],
+    "answer": "$pager->setTotalltems($totalltems)"
+  },
+  {
+    "id": "21044714",
+    "module": "Module 5 & 6",
+    "question": "What does the getFlashdata() method do in CodeIgniter 4?",
+    "options": [
+      "Retrieves persistent session data",
+      "Retrieves a specific piece of session data",
+      "Retrieves all session data",
+      "Retrieves temporary session data that is only available for the next request"
+    ],
+    "answer": "Retrieves temporary session data that is only available for the next request"
+  },
+  {
+    "id": "21059685",
+    "module": "Module 5 & 6",
+    "question": "Which validation rule would you use to check if a date is in the correct format?",
+    "options": [
+      "correct_date",
+      "date_format",
+      "valid date",
+      "valid_format"
+    ],
+    "answer": "valid date"
+  },
+  {
+    "id": "21110078",
+    "module": "Module 5 & 6",
+    "question": "Which helper function can be used to create pagination links directly in the view?",
+    "options": [
+      "pager->create()",
+      "pager->links()",
+      "pager->generate()",
+      "pager->pagination()"
+    ],
+    "answer": "pager->links()"
+  }
+]
